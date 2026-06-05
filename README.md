@@ -377,7 +377,7 @@ SuperShop_Management/
 │
 └── SuperShop_Management.http
     └── HTTP request collection for API testing
-    ```
+```
 
 ### Important Directories
 
@@ -455,12 +455,13 @@ Common Responses:
 
 ## Author
 
-Abdullah Al Foysal
-Shahriar Bin Iqbal
-Tahmina Khan
-Mohammad Sayem
-Sayde Monirul Islam
----
+| Name |
+|------|
+| Abdullah Al Foysal |
+| Shahriar Bin Iqbal |
+| Tahmina Khan |
+| Mohammad Sayem |
+| Sayde Monirul Islam |
 
 
 
