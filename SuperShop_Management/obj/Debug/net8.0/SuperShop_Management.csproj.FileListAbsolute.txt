@@ -1,0 +1,310 @@
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\appsettings.Development.json
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\appsettings.json
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\SuperShop_Management.staticwebassets.runtime.json
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\SuperShop_Management.staticwebassets.endpoints.json
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\SuperShop_Management.exe
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\SuperShop_Management.deps.json
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\SuperShop_Management.runtimeconfig.json
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\SuperShop_Management.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\SuperShop_Management.pdb
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Azure.Core.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Azure.Identity.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Humanizer.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.ClientModel.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.CodeDom.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.csproj.AssemblyReference.cache
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.AssemblyInfoInputs.cache
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.AssemblyInfo.cs
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.csproj.CoreCompileInputs.cache
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.MvcApplicationPartsAssemblyInfo.cs
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.MvcApplicationPartsAssemblyInfo.cache
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\scopedcss\bundle\SuperShop_Management.styles.css
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\staticwebassets.build.json
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\staticwebassets.development.json
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperSho.504878A1.Up2Date
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\refint\SuperShop_Management.dll
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.pdb
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.genruntimeconfig.cache
+E:\Final_Project\Work_Processing\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\ref\SuperShop_Management.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\appsettings.Development.json
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\appsettings.json
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\SuperShop_Management.staticwebassets.endpoints.json
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\SuperShop_Management.staticwebassets.runtime.json
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\SuperShop_Management.exe
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\SuperShop_Management.deps.json
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\SuperShop_Management.runtimeconfig.json
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\SuperShop_Management.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\SuperShop_Management.pdb
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Azure.Core.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Azure.Identity.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Humanizer.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.ClientModel.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.CodeDom.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Memory.Data.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.csproj.AssemblyReference.cache
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.GeneratedMSBuildEditorConfig.editorconfig
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.AssemblyInfoInputs.cache
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.AssemblyInfo.cs
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.csproj.CoreCompileInputs.cache
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.MvcApplicationPartsAssemblyInfo.cs
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.MvcApplicationPartsAssemblyInfo.cache
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\scopedcss\bundle\SuperShop_Management.styles.css
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\staticwebassets.build.json
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\staticwebassets.development.json
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperSho.504878A1.Up2Date
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\refint\SuperShop_Management.dll
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.pdb
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\SuperShop_Management.genruntimeconfig.cache
+F:\all\Final project_api\Final_Project\Api\SuperShop_Management-V15 -Final Updated\obj\Debug\net8.0\ref\SuperShop_Management.dll

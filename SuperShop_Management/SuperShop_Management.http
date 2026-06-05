@@ -1,0 +1,6 @@
+@SuperShop_Management_HostAddress = http://localhost:5186
+
+GET {{SuperShop_Management_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
